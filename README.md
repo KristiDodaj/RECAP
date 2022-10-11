@@ -1,3 +1,52 @@
 # RECAP
+
 An app providing users with a 24-hour recap of the most ongoing events
-![FE8A01D7-BFD8-4397-9B35-0F0560B83DF9_1_102_a](https://user-images.githubusercontent.com/85306363/195197643-108baa65-3583-45c6-81c8-fee97958d591.jpeg)
+
+
+## Screenshots
+
+![App Screenshot](https://i.ibb.co/KjPyZ1F/IMG-2333.png)
+
+
+
+
+## Demo
+
+
+
+
+
+## Deployment
+
+To deploy this project run
+
+```bash
+  npm install -g expo-cli
+  cd front-end
+  expo start
+```
+
+
+## Tech Stack
+
+**Client:** React Native, JavaScript
+
+**Server:** Node, Express, Axios, Cheerio Firebase
+
+
+## Run On Mobile
+
+
+```bash
+  Download Expo Go On App/Play Store
+```
+
+
+```bash
+  Open "exp://exp.host/@kristidodaj/Recap?release-channel=default"
+```
+
+
+```bash
+  Scan QR Code With Camera App To Run App
+```
