@@ -13,6 +13,7 @@ An app providing users with a 24-hour recap of the most ongoing events
 ## Demo
 
 
+https://user-images.githubusercontent.com/85306363/195203654-ba6635cc-ab0d-4313-a109-6c07ffc497ca.mov
 
 
 
