@@ -32,7 +32,7 @@ To deploy this project run
 
 **Client:** React Native, JavaScript
 
-**Server:** Node, Express, Axios, Cheerio Firebase
+**Server:** Node, Express, Axios, Cheerio, Firebase
 
 
 ## Run On Mobile
